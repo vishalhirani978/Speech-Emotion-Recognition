@@ -13,4 +13,5 @@ dependencies = [
     "pyaudio>=0.2.14",
     "scikit-learn>=1.9.1",
     "soundfile>=0.14.0",
+    "streamlit>=1.65.0",
 ]
